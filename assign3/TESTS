@@ -1,0 +1,15 @@
+Cases Tested:
+- less than 2 players
+- more than 16 players
+- more than 13 players, in which case the deck would need to be reshuffled and distributed to the remaining x players past 13 (13*4 = 52, or the full deck)
+
+
+
+
+
+
+
+
+
+Cases NOT Tested:
+- Ties between two players
